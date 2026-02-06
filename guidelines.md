@@ -1,4 +1,4 @@
-# ΔT Economics Research Program: Operational Guide
+# Economics 2.0 Research Program: Operational Guide
 
 ## Part I: Research Philosophy
 
